@@ -66,7 +66,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Gradle.UpdConfOneC [clean]">
+  <component name="RunManager" selected="Gradle.UpdConfOneC [jpackage]">
     <configuration name="UpdConfOneC [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -118,8 +118,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.UpdConfOneC [clean]" />
         <item itemvalue="Gradle.UpdConfOneC [jpackage]" />
+        <item itemvalue="Gradle.UpdConfOneC [clean]" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
